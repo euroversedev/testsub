@@ -1,0 +1,4 @@
+site_name: testsub
+
+nav:
+  - Reference: "test.md"
